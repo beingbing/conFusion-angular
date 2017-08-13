@@ -11,7 +11,7 @@
     "Fusion",
     "Restaurant"
   ],
-  "homepage": "https://github.com/beingbing/bit-test",
+  "homepage": "https://github.com/beingbing/conFusion-angular",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "angular": "~1.6.4"
   }
 }
